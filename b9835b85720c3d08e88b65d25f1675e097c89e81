@@ -1,0 +1,1 @@
+{"jobID":"a1b5a61b-1503-234b-75d7-3e8d1769b75a","spec":{"type":"policy","cause":{"Message":"","User":"Jibin George \u003chello@jibingeo.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
